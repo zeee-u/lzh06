@@ -1,11 +1,14 @@
 # 使用说明：
 ## IPV6 直播源(经常更新)<br/>
-txt 格式直播源地址（已加速）：https://raw.gitmirror.com/wwb521/live/main/tv.txt<br/>
-m3u 格式直播源地址（已加速）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
+txt 格式直播源地址（已加速）：https://raw.githubusercontent.com/zeee-u/lzh06/main/tv.txt<br/>
+m3u 格式直播源地址（已加速）：https://raw.githubusercontent.com/zeee-u/lzh06/main/tv.m3u<br/>
 
 ## 不可描述直播源(不知道能看的有几个,小心当场尴尬出丑哦)<br/>
-txt 格式直播源地址（已加速）：https://raw.gitmirror.com/wwb521/live/main/fl.txt<br/>
-m3u 格式直播源地址（已加速）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/fl.m3u<br/>
+txt 格式直播源地址（已加速）：https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.txt<br/>
+m3u 格式直播源地址（已加速）：https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u<br/>
+
+## 仓库源
+https://raw.githubusercontent.com/zeee-u/lzh06/main/video.json
 
 ## 空壳直播软件<br/>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
