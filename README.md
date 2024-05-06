@@ -8,7 +8,8 @@ txt 格式直播源地址（已加速）：https://raw.githubusercontent.com/zee
 m3u 格式直播源地址（已加速）：https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u<br/>
 
 ## 仓库源
-https://raw.githubusercontent.com/zeee-u/lzh06/main/video.json
+18源：https://raw.githubusercontent.com/zeee-u/lzh06/main/video.json
+播放源：https://raw.githubusercontent.com/zeee-u/lzh06/main/movies.json
 
 ## 空壳直播软件<br/>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
